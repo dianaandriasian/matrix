@@ -50,7 +50,6 @@ void fillMatrix(int(*matrix)[3], int size)
 	}
 }
 
-
 void printMainDiagonal(int (*matrix)[3], int size)
 {
 	for (int i = 0; i < size; ++i) {
