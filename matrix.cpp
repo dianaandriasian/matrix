@@ -115,13 +115,3 @@ void printArray(int* array, int size)
 	}
 	std::cout << std::endl;
 }
-
-
-
-
-
-
-
-
-
-
